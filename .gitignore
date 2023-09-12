@@ -1,3 +1,4 @@
 
 target/*
 */**/**/.DS_Store
+src/test/java/kite/notes
