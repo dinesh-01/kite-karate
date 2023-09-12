@@ -1,6 +1,4 @@
-# bots_api_automation
+# Kite Karate
 Documnetation
 https://github.com/karatelabs/karate
 
-Installation
-https://confluence.freshworks.com/pages/viewpage.action?pageId=395849246
