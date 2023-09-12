@@ -1,0 +1,7 @@
+//Node where jobs runs
+command   = params.COMMAND
+
+node('karate') {
+
+    //Yet to implement coming soon
+}

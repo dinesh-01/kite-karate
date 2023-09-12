@@ -1,0 +1,164 @@
+[
+  {
+    "cSymbol": "COALINDIA",
+    "qbuy": "278.85",
+    "qvolume": "200",
+    "stock_signal": "SELL",
+    "target": "274.67",
+    "stop_loss": "280.24",
+    "order_type": "MARKET"
+  },
+  {
+    "cSymbol": "PFC",
+    "qbuy": "307.45",
+    "qvolume": "100",
+    "stock_signal": "SELL",
+    "target": "302.84",
+    "stop_loss": "308.99",
+    "order_type": "MARKET"
+  },
+  {
+    "cSymbol": "RECLTD",
+    "qbuy": "270.8",
+    "qvolume": "100",
+    "stock_signal": "SELL",
+    "target": "266.74",
+    "stop_loss": "272.15",
+    "order_type": "MARKET"
+  },
+  {
+    "cSymbol": "IOC",
+    "qbuy": "95.05",
+    "qvolume": "500",
+    "stock_signal": "SELL",
+    "target": "93.62",
+    "stop_loss": "95.53",
+    "order_type": "MARKET"
+  },
+  {
+    "cSymbol": "DLF",
+    "qbuy": "540.5",
+    "qvolume": "100",
+    "stock_signal": "SELL",
+    "target": "532.39",
+    "stop_loss": "543.2",
+    "order_type": "MARKET"
+  },
+  {
+    "cSymbol": "GAIL",
+    "qbuy": "128.35",
+    "qvolume": "500",
+    "stock_signal": "SELL",
+    "target": "126.42",
+    "stop_loss": "128.99",
+    "order_type": "MARKET"
+  },
+  {
+    "cSymbol": "AUBANK",
+    "qbuy": "736.5",
+    "qvolume": "50",
+    "stock_signal": "SELL",
+    "target": "725.45",
+    "stop_loss": "740.18",
+    "order_type": "MARKET"
+  },
+  {
+    "cSymbol": "INDHOTEL",
+    "qbuy": "430.55",
+    "qvolume": "50",
+    "stock_signal": "SELL",
+    "target": "424.09",
+    "stop_loss": "432.7",
+    "order_type": "MARKET"
+  },
+  {
+    "cSymbol": "LICHSGFIN",
+    "qbuy": "454.6",
+    "qvolume": "50",
+    "stock_signal": "SELL",
+    "target": "447.78",
+    "stop_loss": "456.87",
+    "order_type": "MARKET"
+  },
+  {
+    "cSymbol": "POONAWALLA",
+    "qbuy": "394",
+    "qvolume": "20",
+    "stock_signal": "BUY",
+    "target": "399.91",
+    "stop_loss": "392.03",
+    "order_type": "MARKET"
+  },
+  {
+    "cSymbol": "ABBOTINDIA",
+    "qbuy": "23029.1",
+    "qvolume": "1",
+    "stock_signal": "SELL",
+    "target": "22683.66",
+    "stop_loss": "23144.25",
+    "order_type": "MARKET"
+  },
+  {
+    "cSymbol": "COLPAL",
+    "qbuy": "2012.9",
+    "qvolume": "10",
+    "stock_signal": "SELL",
+    "target": "1982.71",
+    "stop_loss": "2022.96",
+    "order_type": "MARKET"
+  },
+  {
+    "cSymbol": "TRENT",
+    "qbuy": "2087.7",
+    "qvolume": "10",
+    "stock_signal": "SELL",
+    "target": "2056.38",
+    "stop_loss": "2098.14",
+    "order_type": "MARKET"
+  },
+  {
+    "cSymbol": "HONAUT",
+    "qbuy": "39555",
+    "qvolume": "1",
+    "stock_signal": "BUY",
+    "target": "40148.32",
+    "stop_loss": "39357.23",
+    "order_type": "MARKET"
+  },
+  {
+    "cSymbol": "VEDL",
+    "qbuy": "238.1",
+    "qvolume": "20",
+    "stock_signal": "BUY",
+    "target": "241.67",
+    "stop_loss": "236.91",
+    "order_type": "MARKET"
+  },
+  {
+    "cSymbol": "LUPIN",
+    "qbuy": "1129.6",
+    "qvolume": "20",
+    "stock_signal": "SELL",
+    "target": "1112.66",
+    "stop_loss": "1135.25",
+    "order_type": "MARKET"
+  },
+  {
+    "cSymbol": "DEVYANI",
+    "qbuy": "224.45",
+    "qvolume": "100",
+    "stock_signal": "SELL",
+    "target": "221.08",
+    "stop_loss": "225.57",
+    "order_type": "MARKET"
+  },
+  {
+    "cSymbol": "ACC",
+    "qbuy": "2053",
+    "qvolume": "10",
+    "stock_signal": "BUY",
+    "target": "2083.8",
+    "stop_loss": "2042.74",
+    "order_type": "MARKET"
+  }
+]
