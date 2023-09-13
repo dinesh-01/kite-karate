@@ -11,10 +11,6 @@ Feature: Place Order
  
 Scenario Outline:  Place AMO order for Symbol <cSymbol>
 
-    * print cSymbol
-    * print stock_signal
-    * print order_type
-    * print qbuy
 
     Given path '/orders/amo'
     When form field tradingsymbol = cSymbol

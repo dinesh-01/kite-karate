@@ -12,10 +12,10 @@ Feature: Place Order
 
  
 
-Scenario Outline:  Place Stop loss order for Symbol <tradingsymbol>
-  * def execute_price = "973"
+Scenario Outline:  Place Exit order for Symbol <tradingsymbol>
 
-  * if ("<tradingsymbol>" == "ICICIBANK" && "<status>" == "OPEN") karate.call('place_order_exit_stoploss.feature', { tradingsymbol: "<tradingsymbol>", transaction_type: "<transaction_type>", trigger_price: execute_price, filled_quantity: "<quantity>" })
+    * print tradingsymbol
+
   Examples:
   | list |
 

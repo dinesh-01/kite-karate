@@ -14,7 +14,7 @@ Scenario: Place Stoploss order
    When form field tradingsymbol = tradingsymbol
    When form field exchange = "NSE"
    When form field transaction_type = transaction_type
-   When form field order_type = "LIMIT"
+   When form field order_type = "SL-M"
    When form field trigger_price = trigger_price
    When form field quantity = filled_quantity
    When form field product = 'MIS'

@@ -6,7 +6,7 @@ public class calculation {
         
 
        double price = Double.parseDouble(kprice);  
-       double percentage_cal = 1.5;
+       double percentage_cal = 1;
        
        double cal = 0;
        cal = percentage_cal / 100 ;
