@@ -13,7 +13,7 @@ Scenario: Place Exit order for Symbol
    * def reverse_signal = "SELL"
    * if (transaction_type == "SELL") reverse_signal = "BUY"
 
-   * def target    = JavaDemo.calculate_target(transaction_type,average_price)
+   * def target    = JavaDemo.calculate_target(transaction_type,average_price,'target')
    * print target
    * print reverse_signal
 

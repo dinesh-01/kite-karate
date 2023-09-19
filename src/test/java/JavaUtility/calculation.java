@@ -2,11 +2,22 @@ package JavaUtility;
 
 public class calculation {
 
-    public static double calculate_target(String order_type, String kprice) {
+    public static double calculate_target(String order_type, String kprice, String category) {
         
 
-       double price = Double.parseDouble(kprice);  
-       double percentage_cal = 1;
+       double price = Double.parseDouble(kprice); 
+       double percentage_cal = 1.5;
+
+       if(category.equals("stoploss")) {
+          percentage_cal = 1;
+
+       }
+
+       if(category.equals("target")) {
+           percentage_cal = 2;
+       }
+
+
        
        double cal = 0;
        cal = percentage_cal / 100 ;

@@ -19,7 +19,7 @@ Scenario: Place Stoploss order
    When form field quantity = filled_quantity
    When form field product = 'MIS'
    When form field validity = 'DAY'
-   When method post
+  # When method post
   
 
   
