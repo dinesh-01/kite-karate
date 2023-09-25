@@ -1,164 +1,209 @@
 [
 	{
-	  "cSymbol": "HDFCBANK",
-	  "qbuy": "1657",
-	  "qvolume": "15",
-	  "stock_signal": "SELL",
-	  "target": "1645.4",
-	  "stop_loss": "1665.3",
-	  "order_type": "MARKET"
-	},
-	{
-	  "cSymbol": "INFY",
-	  "qbuy": "1512",
-	  "qvolume": "17",
-	  "stock_signal": "SELL",
-	  "target": "1501.4",
-	  "stop_loss": "1519.6",
-	  "order_type": "MARKET"
-	},
-	{
-	  "cSymbol": "UPL",
-	  "qbuy": "633.85",
-	  "qvolume": "40",
-	  "stock_signal": "SELL",
-	  "target": "629.4",
-	  "stop_loss": "637",
-	  "order_type": "MARKET"
-	},
-	{
-	  "cSymbol": "ULTRACEMCO",
-	  "qbuy": "8731.05",
-	  "qvolume": "3",
-	  "stock_signal": "SELL",
-	  "target": "8669.9",
-	  "stop_loss": "8774.7",
-	  "order_type": "MARKET"
-	},
-	{
-	  "cSymbol": "CHOLAFIN",
-	  "qbuy": "1220.15",
-	  "qvolume": "20",
-	  "stock_signal": "SELL",
-	  "target": "1211.6",
-	  "stop_loss": "1226.3",
-	  "order_type": "MARKET"
-	},
-	{
-	  "cSymbol": "PRESTIGE",
-	  "qbuy": "620",
-	  "qvolume": "40",
-	  "stock_signal": "SELL",
-	  "target": "615.7",
-	  "stop_loss": "623.1",
-	  "order_type": "MARKET"
-	},
-	{
-	  "cSymbol": "GAIL",
-	  "qbuy": "123.7",
-	  "qvolume": "202",
-	  "stock_signal": "SELL",
-	  "target": "122.8",
-	  "stop_loss": "124.3",
-	  "order_type": "MARKET"
-	},
-	{
-	  "cSymbol": "LAURUSLABS",
-	  "qbuy": "400.05",
-	  "qvolume": "62",
-	  "stock_signal": "SELL",
-	  "target": "397.2",
-	  "stop_loss": "402.1",
-	  "order_type": "MARKET"
-	},
-	{
-	  "cSymbol": "M&MFIN",
-	  "qbuy": "301.05",
-	  "qvolume": "83",
-	  "stock_signal": "SELL",
-	  "target": "298.9",
-	  "stop_loss": "302.6",
-	  "order_type": "MARKET"
-	},
-	{
-	  "cSymbol": "PNB",
-	  "qbuy": "74",
-	  "qvolume": "340",
-	  "stock_signal": "SELL",
-	  "target": "73.5",
-	  "stop_loss": "74.4",
-	  "order_type": "MARKET"
-	},
-	{
-	  "cSymbol": "PIIND",
-	  "qbuy": "3627",
-	  "qvolume": "7",
-	  "stock_signal": "SELL",
-	  "target": "3601.6",
-	  "stop_loss": "3645.1",
-	  "order_type": "MARKET"
-	},
-	{
-	  "cSymbol": "POLYCAB",
-	  "qbuy": "5162",
-	  "qvolume": "5",
-	  "stock_signal": "SELL",
-	  "target": "5125.9",
-	  "stop_loss": "5187.8",
-	  "order_type": "MARKET"
-	},
-	{
-	  "cSymbol": "COLPAL",
-	  "qbuy": "1999.95",
-	  "qvolume": "13",
+	  "cSymbol": "BEL",
+	  "qbuy": "134.3",
+	  "qvolume": "186",
 	  "stock_signal": "BUY",
-	  "target": "2013.9",
-	  "stop_loss": "1990",
-	  "order_type": "MARKET"
+	  "target": "135.2",
+	  "stop_loss": "133.6",
+	  "order_type": "LIMIT"
 	},
 	{
-	  "cSymbol": "TATAELXSI",
-	  "qbuy": "7228",
+	  "cSymbol": "HINDPETRO",
+	  "qbuy": "266.55",
+	  "qvolume": "0",
+	  "stock_signal": "SELL",
+	  "target": "264.7",
+	  "stop_loss": "267.9",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "FLUOROCHEM",
+	  "qbuy": "3069.15",
+	  "qvolume": "0",
+	  "stock_signal": "SELL",
+	  "target": "3047.7",
+	  "stop_loss": "3084.5",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "GODREJCP",
+	  "qbuy": "980.3",
+	  "qvolume": "25",
+	  "stock_signal": "BUY",
+	  "target": "987.2",
+	  "stop_loss": "975.4",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "ATGL",
+	  "qbuy": "634",
+	  "qvolume": "39",
+	  "stock_signal": "BUY",
+	  "target": "638.4",
+	  "stop_loss": "630.8",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "BAJAJHLDNG",
+	  "qbuy": "7378.4",
 	  "qvolume": "3",
 	  "stock_signal": "SELL",
-	  "target": "7177.4",
-	  "stop_loss": "7264.1",
-	  "order_type": "MARKET"
+	  "target": "7326.8",
+	  "stop_loss": "7415.3",
+	  "order_type": "LIMIT"
 	},
 	{
-	  "cSymbol": "SAIL",
-	  "qbuy": "96.15",
-	  "qvolume": "260",
-	  "stock_signal": "SELL",
-	  "target": "95.5",
-	  "stop_loss": "96.6",
-	  "order_type": "MARKET"
+	  "cSymbol": "ZOMATO",
+	  "qbuy": "98.45",
+	  "qvolume": "253",
+	  "stock_signal": "BUY",
+	  "target": "99.1",
+	  "stop_loss": "98",
+	  "order_type": "LIMIT"
 	},
 	{
-	  "cSymbol": "UNIONBANK",
-	  "qbuy": "96.15",
-	  "qvolume": "260",
-	  "stock_signal": "SELL",
-	  "target": "95.5",
-	  "stop_loss": "96.6",
-	  "order_type": "MARKET"
+	  "cSymbol": "INDIAMART",
+	  "qbuy": "2976.55",
+	  "qvolume": "8",
+	  "stock_signal": "BUY",
+	  "target": "2997.4",
+	  "stop_loss": "2961.7",
+	  "order_type": "LIMIT"
 	},
 	{
-	  "cSymbol": "SRF",
-	  "qbuy": "2368.5",
-	  "qvolume": "10",
-	  "stock_signal": "SELL",
-	  "target": "2351.9",
-	  "stop_loss": "2380.3",
-	  "order_type": "MARKET"
+	  "cSymbol": "RATNAMANI",
+	  "qbuy": "2531.75",
+	  "qvolume": "9",
+	  "stock_signal": "BUY",
+	  "target": "2549.5",
+	  "stop_loss": "2519.1",
+	  "order_type": "LIMIT"
 	},
 	{
-	  "cSymbol": "LALPATHLAB",
-	  "qbuy": "2337.5",
-	  "qvolume": "10",
-	  "stock_signal": "SELL",
-	  "target": "2321.1",
-	  "stop_loss": "2349.2",
-	  "order_type": "MARKET"
+	  "cSymbol": "JUSTDIAL",
+	  "qbuy": "698.15",
+	  "qvolume": "35",
+	  "stock_signal": "BUY",
+	  "target": "703",
+	  "stop_loss": "694.7",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "SHYAMMETL",
+	  "qbuy": "428.15",
+	  "qvolume": "58",
+	  "stock_signal": "BUY",
+	  "target": "431.1",
+	  "stop_loss": "426",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "VAIBHAVGBL",
+	  "qbuy": "423.55",
+	  "qvolume": "59",
+	  "stock_signal": "BUY",
+	  "target": "426.5",
+	  "stop_loss": "421.4",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "3MINDIA",
+	  "qbuy": "30709.1",
+	  "qvolume": "1",
+	  "stock_signal": "BUY",
+	  "target": "30924",
+	  "stop_loss": "30555.5",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "WESTLIFE",
+	  "qbuy": "946.8",
+	  "qvolume": "26",
+	  "stock_signal": "BUY",
+	  "target": "953.4",
+	  "stop_loss": "942.1",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "ELGIEQUIP",
+	  "qbuy": "492.4",
+	  "qvolume": "50",
+	  "stock_signal": "BUY",
+	  "target": "495.8",
+	  "stop_loss": "489.9",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "SHARDACROP",
+	  "qbuy": "426.1",
+	  "qvolume": "58",
+	  "stock_signal": "BUY",
+	  "target": "429.1",
+	  "stop_loss": "424",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "STLTECH",
+	  "qbuy": "159.4",
+	  "qvolume": "156",
+	  "stock_signal": "BUY",
+	  "target": "160.5",
+	  "stop_loss": "158.6",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "ANURAS",
+	  "qbuy": "878.25",
+	  "qvolume": "28",
+	  "stock_signal": "BUY",
+	  "target": "884.4",
+	  "stop_loss": "873.9",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "MGL",
+	  "qbuy": "1014.55",
+	  "qvolume": "24",
+	  "stock_signal": "BUY",
+	  "target": "1021.7",
+	  "stop_loss": "1009.5",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "METROPOLIS",
+	  "qbuy": "1411.95",
+	  "qvolume": "17",
+	  "stock_signal": "BUY",
+	  "target": "1421.8",
+	  "stop_loss": "1404.9",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "CHALET",
+	  "qbuy": "537.75",
+	  "qvolume": "46",
+	  "stock_signal": "BUY",
+	  "target": "541.5",
+	  "stop_loss": "535.1",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "KALYANKJIL",
+	  "qbuy": "210.6",
+	  "qvolume": "118",
+	  "stock_signal": "BUY",
+	  "target": "212.1",
+	  "stop_loss": "209.5",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "CCL",
+	  "qbuy": "616.9",
+	  "qvolume": "40",
+	  "stock_signal": "BUY",
+	  "target": "621.2",
+	  "stop_loss": "613.8",
+	  "order_type": "LIMIT"
 	}
   ]

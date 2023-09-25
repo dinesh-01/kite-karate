@@ -17,6 +17,7 @@ Scenario Outline:  Place AMO order for Symbol <cSymbol>
     When form field exchange = "NSE"
     When form field transaction_type = stock_signal
     When form field order_type = order_type
+    When form field price = qbuy
     When form field quantity = qvolume
     When form field product = 'MIS'
     When form field validity = 'DAY'
