@@ -2,3 +2,5 @@
 target/*
 */**/**/.DS_Store
 src/test/java/kite/notes
+src/test/java/karate-config.js
+src/test/java/kite/notes
