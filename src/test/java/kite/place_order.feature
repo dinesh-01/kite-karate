@@ -8,9 +8,7 @@ Feature: Place Order
     * def order_details = read('classpath:kite/order.json')
     * def fullList = callonce read('classpath:kite/fetch_order.feature')
     * def JavaDemo = Java.type('JavaUtility.jsonhandler')
-    * def list = fullList.result
-    * print list
- 
+    * def list = fullList.result 
 
 
 Scenario Outline:  Place Exit order for Symbol <tradingsymbol>

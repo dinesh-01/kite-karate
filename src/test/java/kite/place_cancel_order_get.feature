@@ -3,27 +3,25 @@ Feature: Place Order
 
   Background:
     * url "https://api.kite.trade"
-    * configure headers = { Content-Type: 'application/x-www-form-urlencoded', Authorization: KITE_TOKEN, X-Kite-Version: 3}
+    * configure headers = { Content-Type: 'application/x-www-form-urlencoded', Authorization: #(kite_token), X-Kite-Version: 3}
 
 
 
  
-@amo
-Scenario:  Place Cancel order complete
+Scenario:  Place Cancel order GET Validation complete
 
-    * print tradingsymbol
-    * print orderid
-   
+    Given path 'orders/'+orderid
+    When method GET
+    * def result = response.data
 
-   # Given path '/orders/regular'
-   # When form field tradingsymbol = cSymbol
-   # When form field exchange = "NSE"
-   # When form field transaction_type = stock_signal
-   # When form field order_type = order_type
-   # When form field quantity = qvolume
-   # When form field product = 'MIS'
-   # When form field validity = 'DAY'
-   # When method post
+    * def conditions = function(arg) { return karate.jsonPath(arg, "[?(@.status == 'CANCELLED')]") }
+    * def result = call conditions result
+    * def count  =  result.length
+    * print count
+    * if (count == 0) karate.call('place_cancel_order_delete.feature', { orderid: orderid })
+
+
+
    
   
 

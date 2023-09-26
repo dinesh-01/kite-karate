@@ -1,209 +1,57 @@
 [
+	
 	{
-	  "cSymbol": "BEL",
-	  "qbuy": "134.3",
-	  "qvolume": "186",
-	  "stock_signal": "BUY",
-	  "target": "135.2",
-	  "stop_loss": "133.6",
-	  "order_type": "LIMIT"
-	},
-	{
-	  "cSymbol": "HINDPETRO",
-	  "qbuy": "266.55",
-	  "qvolume": "0",
+	  "cSymbol": "TECHM",
+	  "qbuy": "1315.8",
+	  "qvolume": "37",
 	  "stock_signal": "SELL",
-	  "target": "264.7",
-	  "stop_loss": "267.9",
+	  "target": "1306.6",
+	  "stop_loss": "1322.4",
 	  "order_type": "LIMIT"
 	},
 	{
-	  "cSymbol": "FLUOROCHEM",
-	  "qbuy": "3069.15",
-	  "qvolume": "0",
+	  "cSymbol": "BANKINDIA",
+	  "qbuy": "111.7",
+	  "qvolume": "447",
 	  "stock_signal": "SELL",
-	  "target": "3047.7",
-	  "stop_loss": "3084.5",
+	  "target": "110.9",
+	  "stop_loss": "112.3",
 	  "order_type": "LIMIT"
 	},
 	{
-	  "cSymbol": "GODREJCP",
-	  "qbuy": "980.3",
-	  "qvolume": "25",
-	  "stock_signal": "BUY",
-	  "target": "987.2",
-	  "stop_loss": "975.4",
-	  "order_type": "LIMIT"
-	},
-	{
-	  "cSymbol": "ATGL",
-	  "qbuy": "634",
-	  "qvolume": "39",
-	  "stock_signal": "BUY",
-	  "target": "638.4",
-	  "stop_loss": "630.8",
-	  "order_type": "LIMIT"
-	},
-	{
-	  "cSymbol": "BAJAJHLDNG",
-	  "qbuy": "7378.4",
-	  "qvolume": "3",
+	  "cSymbol": "TRIDENT",
+	  "qbuy": "37.9",
+	  "qvolume": "1319",
 	  "stock_signal": "SELL",
-	  "target": "7326.8",
-	  "stop_loss": "7415.3",
+	  "target": "37.6",
+	  "stop_loss": "38.1",
 	  "order_type": "LIMIT"
 	},
 	{
-	  "cSymbol": "ZOMATO",
-	  "qbuy": "98.45",
-	  "qvolume": "253",
-	  "stock_signal": "BUY",
-	  "target": "99.1",
-	  "stop_loss": "98",
+	  "cSymbol": "CESC",
+	  "qbuy": "92.35",
+	  "qvolume": "541",
+	  "stock_signal": "SELL",
+	  "target": "91.7",
+	  "stop_loss": "92.8",
 	  "order_type": "LIMIT"
 	},
 	{
-	  "cSymbol": "INDIAMART",
-	  "qbuy": "2976.55",
-	  "qvolume": "8",
-	  "stock_signal": "BUY",
-	  "target": "2997.4",
-	  "stop_loss": "2961.7",
+	  "cSymbol": "MASTEK",
+	  "qbuy": "2490.8",
+	  "qvolume": "20",
+	  "stock_signal": "SELL",
+	  "target": "2473.4",
+	  "stop_loss": "2503.3",
 	  "order_type": "LIMIT"
 	},
 	{
-	  "cSymbol": "RATNAMANI",
-	  "qbuy": "2531.75",
-	  "qvolume": "9",
-	  "stock_signal": "BUY",
-	  "target": "2549.5",
-	  "stop_loss": "2519.1",
-	  "order_type": "LIMIT"
-	},
-	{
-	  "cSymbol": "JUSTDIAL",
-	  "qbuy": "698.15",
-	  "qvolume": "35",
-	  "stock_signal": "BUY",
-	  "target": "703",
-	  "stop_loss": "694.7",
-	  "order_type": "LIMIT"
-	},
-	{
-	  "cSymbol": "SHYAMMETL",
-	  "qbuy": "428.15",
-	  "qvolume": "58",
-	  "stock_signal": "BUY",
-	  "target": "431.1",
-	  "stop_loss": "426",
-	  "order_type": "LIMIT"
-	},
-	{
-	  "cSymbol": "VAIBHAVGBL",
-	  "qbuy": "423.55",
-	  "qvolume": "59",
-	  "stock_signal": "BUY",
-	  "target": "426.5",
-	  "stop_loss": "421.4",
-	  "order_type": "LIMIT"
-	},
-	{
-	  "cSymbol": "3MINDIA",
-	  "qbuy": "30709.1",
-	  "qvolume": "1",
-	  "stock_signal": "BUY",
-	  "target": "30924",
-	  "stop_loss": "30555.5",
-	  "order_type": "LIMIT"
-	},
-	{
-	  "cSymbol": "WESTLIFE",
-	  "qbuy": "946.8",
-	  "qvolume": "26",
-	  "stock_signal": "BUY",
-	  "target": "953.4",
-	  "stop_loss": "942.1",
-	  "order_type": "LIMIT"
-	},
-	{
-	  "cSymbol": "ELGIEQUIP",
-	  "qbuy": "492.4",
-	  "qvolume": "50",
-	  "stock_signal": "BUY",
-	  "target": "495.8",
-	  "stop_loss": "489.9",
-	  "order_type": "LIMIT"
-	},
-	{
-	  "cSymbol": "SHARDACROP",
-	  "qbuy": "426.1",
-	  "qvolume": "58",
-	  "stock_signal": "BUY",
-	  "target": "429.1",
-	  "stop_loss": "424",
-	  "order_type": "LIMIT"
-	},
-	{
-	  "cSymbol": "STLTECH",
-	  "qbuy": "159.4",
-	  "qvolume": "156",
-	  "stock_signal": "BUY",
-	  "target": "160.5",
-	  "stop_loss": "158.6",
-	  "order_type": "LIMIT"
-	},
-	{
-	  "cSymbol": "ANURAS",
-	  "qbuy": "878.25",
-	  "qvolume": "28",
-	  "stock_signal": "BUY",
-	  "target": "884.4",
-	  "stop_loss": "873.9",
-	  "order_type": "LIMIT"
-	},
-	{
-	  "cSymbol": "MGL",
-	  "qbuy": "1014.55",
-	  "qvolume": "24",
-	  "stock_signal": "BUY",
-	  "target": "1021.7",
-	  "stop_loss": "1009.5",
-	  "order_type": "LIMIT"
-	},
-	{
-	  "cSymbol": "METROPOLIS",
-	  "qbuy": "1411.95",
-	  "qvolume": "17",
-	  "stock_signal": "BUY",
-	  "target": "1421.8",
-	  "stop_loss": "1404.9",
-	  "order_type": "LIMIT"
-	},
-	{
-	  "cSymbol": "CHALET",
-	  "qbuy": "537.75",
-	  "qvolume": "46",
-	  "stock_signal": "BUY",
-	  "target": "541.5",
-	  "stop_loss": "535.1",
-	  "order_type": "LIMIT"
-	},
-	{
-	  "cSymbol": "KALYANKJIL",
-	  "qbuy": "210.6",
-	  "qvolume": "118",
-	  "stock_signal": "BUY",
-	  "target": "212.1",
-	  "stop_loss": "209.5",
-	  "order_type": "LIMIT"
-	},
-	{
-	  "cSymbol": "CCL",
-	  "qbuy": "616.9",
-	  "qvolume": "40",
-	  "stock_signal": "BUY",
-	  "target": "621.2",
-	  "stop_loss": "613.8",
+	  "cSymbol": "CENTURYTEX",
+	  "qbuy": "1108.05",
+	  "qvolume": "45",
+	  "stock_signal": "SELL",
+	  "target": "1100.3",
+	  "stop_loss": "1113.6",
 	  "order_type": "LIMIT"
 	}
   ]
