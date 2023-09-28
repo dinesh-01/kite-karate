@@ -14,7 +14,7 @@ public class calculation {
        }
 
        if(category.equals("target")) {
-           percentage_cal = 2;
+           percentage_cal = 1.5;
        }
 
 
