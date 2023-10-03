@@ -1,57 +1,83 @@
 [
-	
 	{
-	  "cSymbol": "TECHM",
-	  "qbuy": "1315.8",
-	  "qvolume": "37",
-	  "stock_signal": "SELL",
-	  "target": "1306.6",
-	  "stop_loss": "1322.4",
+	  "cSymbol": "INFY",
+	  "qbuy": "1429.65",
+	  "qvolume": "69",
+	  "stock_signal": "BUY",
+	  "target": "1451.1",
+	  "stop_loss": "1422.5",
 	  "order_type": "LIMIT"
 	},
 	{
-	  "cSymbol": "BANKINDIA",
-	  "qbuy": "111.7",
-	  "qvolume": "447",
+	  "cSymbol": "INDUSTOWER",
+	  "qbuy": "191.65",
+	  "qvolume": "130",
 	  "stock_signal": "SELL",
-	  "target": "110.9",
-	  "stop_loss": "112.3",
+	  "target": "188.8",
+	  "stop_loss": "192.6",
 	  "order_type": "LIMIT"
 	},
 	{
-	  "cSymbol": "TRIDENT",
-	  "qbuy": "37.9",
-	  "qvolume": "1319",
+	  "cSymbol": "FORTIS",
+	  "qbuy": "340.5",
+	  "qvolume": "293",
 	  "stock_signal": "SELL",
-	  "target": "37.6",
-	  "stop_loss": "38.1",
+	  "target": "335.4",
+	  "stop_loss": "342.2",
 	  "order_type": "LIMIT"
 	},
 	{
-	  "cSymbol": "CESC",
-	  "qbuy": "92.35",
-	  "qvolume": "541",
-	  "stock_signal": "SELL",
-	  "target": "91.7",
-	  "stop_loss": "92.8",
+	  "cSymbol": "BATAINDIA",
+	  "qbuy": "1610.3",
+	  "qvolume": "62",
+	  "stock_signal": "BUY",
+	  "target": "1634.5",
+	  "stop_loss": "1602.2",
 	  "order_type": "LIMIT"
 	},
 	{
-	  "cSymbol": "MASTEK",
-	  "qbuy": "2490.8",
-	  "qvolume": "20",
+	  "cSymbol": "TATAINVEST",
+	  "qbuy": "3280",
+	  "qvolume": "30",
 	  "stock_signal": "SELL",
-	  "target": "2473.4",
-	  "stop_loss": "2503.3",
+	  "target": "3230.8",
+	  "stop_loss": "3296.4",
 	  "order_type": "LIMIT"
 	},
 	{
-	  "cSymbol": "CENTURYTEX",
-	  "qbuy": "1108.05",
-	  "qvolume": "45",
+	  "cSymbol": "EQUITASBNK",
+	  "qbuy": "89.6",
+	  "qvolume": "1116",
 	  "stock_signal": "SELL",
-	  "target": "1100.3",
-	  "stop_loss": "1113.6",
+	  "target": "88.3",
+	  "stop_loss": "90",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "TCNSBRANDS",
+	  "qbuy": "357.75",
+	  "qvolume": "279",
+	  "stock_signal": "BUY",
+	  "target": "363.1",
+	  "stop_loss": "356",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "MEDANTA",
+	  "qbuy": "717.95",
+	  "qvolume": "139",
+	  "stock_signal": "SELL",
+	  "target": "707.2",
+	  "stop_loss": "721.5",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "FDC",
+	  "qbuy": "384.1",
+	  "qvolume": "260",
+	  "stock_signal": "SELL",
+	  "target": "378.3",
+	  "stop_loss": "386",
 	  "order_type": "LIMIT"
 	}
   ]
