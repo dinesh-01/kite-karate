@@ -1,83 +1,245 @@
 [
 	{
+	  "cSymbol": "BPCL",
+	  "qbuy": "339.15",
+	  "qvolume": "147",
+	  "stock_signal": "BUY",
+	  "target": "344.2",
+	  "stop_loss": "337.5",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "BRITANNIA",
+	  "qbuy": "4434.7",
+	  "qvolume": "11",
+	  "stock_signal": "BUY",
+	  "target": "4501.2",
+	  "stop_loss": "4412.5",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "HDFCBANK",
+	  "qbuy": "1496.4",
+	  "qvolume": "33",
+	  "stock_signal": "BUY",
+	  "target": "1518.8",
+	  "stop_loss": "1488.9",
+	  "order_type": "LIMIT"
+	},
+	{
 	  "cSymbol": "INFY",
-	  "qbuy": "1429.65",
-	  "qvolume": "69",
+	  "qbuy": "1416.45",
+	  "qvolume": "35",
 	  "stock_signal": "BUY",
-	  "target": "1451.1",
-	  "stop_loss": "1422.5",
+	  "target": "1437.7",
+	  "stop_loss": "1409.4",
 	  "order_type": "LIMIT"
 	},
 	{
-	  "cSymbol": "INDUSTOWER",
-	  "qbuy": "191.65",
-	  "qvolume": "130",
-	  "stock_signal": "SELL",
-	  "target": "188.8",
-	  "stop_loss": "192.6",
-	  "order_type": "LIMIT"
-	},
-	{
-	  "cSymbol": "FORTIS",
-	  "qbuy": "340.5",
-	  "qvolume": "293",
-	  "stock_signal": "SELL",
-	  "target": "335.4",
-	  "stop_loss": "342.2",
-	  "order_type": "LIMIT"
-	},
-	{
-	  "cSymbol": "BATAINDIA",
-	  "qbuy": "1610.3",
-	  "qvolume": "62",
+	  "cSymbol": "TCS",
+	  "qbuy": "3476.9",
+	  "qvolume": "14",
 	  "stock_signal": "BUY",
-	  "target": "1634.5",
-	  "stop_loss": "1602.2",
+	  "target": "3529.1",
+	  "stop_loss": "3459.5",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "LTIM",
+	  "qbuy": "5130.35",
+	  "qvolume": "9",
+	  "stock_signal": "BUY",
+	  "target": "5207.3",
+	  "stop_loss": "5104.7",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "TIINDIA",
+	  "qbuy": "2923.95",
+	  "qvolume": "17",
+	  "stock_signal": "BUY",
+	  "target": "2967.8",
+	  "stop_loss": "2909.3",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "ESCORTS",
+	  "qbuy": "3034.15",
+	  "qvolume": "16",
+	  "stock_signal": "BUY",
+	  "target": "3079.7",
+	  "stop_loss": "3019",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "CUMMINSIND",
+	  "qbuy": "1658.45",
+	  "qvolume": "30",
+	  "stock_signal": "BUY",
+	  "target": "1683.3",
+	  "stop_loss": "1650.2",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "ATGL",
+	  "qbuy": "605.25",
+	  "qvolume": "82",
+	  "stock_signal": "BUY",
+	  "target": "614.3",
+	  "stop_loss": "602.2",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "ADANIENSOL",
+	  "qbuy": "792",
+	  "qvolume": "63",
+	  "stock_signal": "BUY",
+	  "target": "803.9",
+	  "stop_loss": "788",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "WELSPUNIND",
+	  "qbuy": "117.5",
+	  "qvolume": "425",
+	  "stock_signal": "BUY",
+	  "target": "119.3",
+	  "stop_loss": "116.9",
 	  "order_type": "LIMIT"
 	},
 	{
 	  "cSymbol": "TATAINVEST",
-	  "qbuy": "3280",
-	  "qvolume": "30",
-	  "stock_signal": "SELL",
-	  "target": "3230.8",
-	  "stop_loss": "3296.4",
-	  "order_type": "LIMIT"
-	},
-	{
-	  "cSymbol": "EQUITASBNK",
-	  "qbuy": "89.6",
-	  "qvolume": "1116",
-	  "stock_signal": "SELL",
-	  "target": "88.3",
-	  "stop_loss": "90",
-	  "order_type": "LIMIT"
-	},
-	{
-	  "cSymbol": "TCNSBRANDS",
-	  "qbuy": "357.75",
-	  "qvolume": "279",
+	  "qbuy": "3104.4",
+	  "qvolume": "16",
 	  "stock_signal": "BUY",
-	  "target": "363.1",
-	  "stop_loss": "356",
+	  "target": "3151",
+	  "stop_loss": "3088.9",
 	  "order_type": "LIMIT"
 	},
 	{
-	  "cSymbol": "MEDANTA",
-	  "qbuy": "717.95",
-	  "qvolume": "139",
-	  "stock_signal": "SELL",
-	  "target": "707.2",
-	  "stop_loss": "721.5",
+	  "cSymbol": "BALAMINES",
+	  "qbuy": "2151.65",
+	  "qvolume": "23",
+	  "stock_signal": "BUY",
+	  "target": "2183.9",
+	  "stop_loss": "2140.9",
 	  "order_type": "LIMIT"
 	},
 	{
-	  "cSymbol": "FDC",
-	  "qbuy": "384.1",
-	  "qvolume": "260",
+	  "cSymbol": "TIMKEN",
+	  "qbuy": "3037.5",
+	  "qvolume": "16",
+	  "stock_signal": "BUY",
+	  "target": "3083.1",
+	  "stop_loss": "3022.3",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "SWANENERGY",
+	  "qbuy": "278.45",
+	  "qvolume": "179",
+	  "stock_signal": "BUY",
+	  "target": "282.6",
+	  "stop_loss": "277.1",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "CLEAN",
+	  "qbuy": "1394.7",
+	  "qvolume": "35",
+	  "stock_signal": "BUY",
+	  "target": "1415.6",
+	  "stop_loss": "1387.7",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "APTUS",
+	  "qbuy": "299.55",
+	  "qvolume": "166",
 	  "stock_signal": "SELL",
-	  "target": "378.3",
-	  "stop_loss": "386",
+	  "target": "295.1",
+	  "stop_loss": "301",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "VMART",
+	  "qbuy": "1944.7",
+	  "qvolume": "25",
+	  "stock_signal": "BUY",
+	  "target": "1973.9",
+	  "stop_loss": "1935",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "KEI",
+	  "qbuy": "2743.2",
+	  "qvolume": "18",
+	  "stock_signal": "SELL",
+	  "target": "2702.1",
+	  "stop_loss": "2756.9",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "EIHOTEL",
+	  "qbuy": "241.45",
+	  "qvolume": "207",
+	  "stock_signal": "SELL",
+	  "target": "237.8",
+	  "stop_loss": "242.7",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "ENDURANCE",
+	  "qbuy": "1553.3",
+	  "qvolume": "32",
+	  "stock_signal": "BUY",
+	  "target": "1576.6",
+	  "stop_loss": "1545.5",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "RAJESHEXPO",
+	  "qbuy": "486.2",
+	  "qvolume": "102",
+	  "stock_signal": "BUY",
+	  "target": "493.5",
+	  "stop_loss": "483.8",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "GODREJIND",
+	  "qbuy": "599.75",
+	  "qvolume": "83",
+	  "stock_signal": "SELL",
+	  "target": "590.8",
+	  "stop_loss": "602.7",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "ANGELONE",
+	  "qbuy": "1807.35",
+	  "qvolume": "27",
+	  "stock_signal": "BUY",
+	  "target": "1834.5",
+	  "stop_loss": "1798.3",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "JSL",
+	  "qbuy": "532.45",
+	  "qvolume": "93",
+	  "stock_signal": "SELL",
+	  "target": "524.5",
+	  "stop_loss": "535.1",
+	  "order_type": "LIMIT"
+	},
+	{
+	  "cSymbol": "CCL",
+	  "qbuy": "670.75",
+	  "qvolume": "74",
+	  "stock_signal": "SELL",
+	  "target": "660.7",
+	  "stop_loss": "674.1",
 	  "order_type": "LIMIT"
 	}
   ]
