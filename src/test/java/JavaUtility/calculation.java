@@ -9,7 +9,7 @@ public class calculation {
        double percentage_cal = 1.5;
 
        if(category.equals("stoploss")) {
-          percentage_cal = 0.75;
+          percentage_cal = 0.6;
 
        }
 
