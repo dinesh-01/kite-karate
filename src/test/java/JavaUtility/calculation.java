@@ -9,12 +9,12 @@ public class calculation {
        double percentage_cal = 1.5;
 
        if(category.equals("stoploss")) {
-          percentage_cal = 0.6;
+          percentage_cal = 1;
 
        }
 
        if(category.equals("target")) {
-           percentage_cal = 1.5;
+           percentage_cal = 2;
        }
 
 
